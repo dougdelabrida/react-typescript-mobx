@@ -1,11 +1,15 @@
 ## What is this?
 A base project for developing React Apps using typescript and mobx
 
+### Prerequisites
+- Node 8.10.0+
+- yarn
+
 ### Installing
-`Coming soon`
+`yarn install`
 
 ### Running
-`Coming soon`
+`yarn start`
 
 ### Stack
 - React 

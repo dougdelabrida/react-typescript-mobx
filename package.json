@@ -4,5 +4,15 @@
   "description": "Base for react projects using react typescript and mobx",
   "main": "index.js",
   "author": "Douglas Delabrida",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.40",
+    "@types/react-dom": "^16.0.4",
+    "awesome-typescript-loader": "^4.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1"
+  }
 }

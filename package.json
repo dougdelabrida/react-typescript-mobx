@@ -1,0 +1,8 @@
+{
+  "name": "react-typescript-mobx",
+  "version": "0.0.1",
+  "description": "Base for react projects using react typescript and mobx",
+  "main": "index.js",
+  "author": "Douglas Delabrida",
+  "license": "MIT"
+}

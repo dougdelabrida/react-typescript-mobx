@@ -6,11 +6,13 @@
   "author": "Douglas Delabrida",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --hot"
+    "start": "webpack-dev-server --hot --progress"
   },
   "dependencies": {
     "@types/react": "^16.0.40",
     "@types/react-dom": "^16.0.4",
+    "mobx": "^4.1.0",
+    "mobx-react": "^5.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },

@@ -2,6 +2,10 @@
 
 This file will have all changes made in this project.
 
+## 0.2.1 - 2018-03-20
+### Added
+- Mobx
+
 ## 0.1.1 - 2018-03-19
 ### Added
 - React
